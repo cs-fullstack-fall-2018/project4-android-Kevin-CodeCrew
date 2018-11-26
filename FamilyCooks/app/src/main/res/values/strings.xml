@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Family Cooks</string>
+    <string name="title_activity_recipe_list">Recipe List</string>
+</resources>
